@@ -2,7 +2,7 @@
 // Level: 8 kyu
 // Task: Arguments to Binary addition
 
-// The first way
+// The first way________________________________
 function arr2bin(arr) {
     let sum = 0;
     let minus = false;
@@ -37,7 +37,7 @@ function arr2bin(arr) {
     return minus ? "-" + reverseBinary : reverseBinary;
 }
 
-// The second way
+// The second way________________________________
 function arr2bin(arr){
   return arr.reduce((acc, val) => typeof val === "number" ? acc + val : acc, 0).toString(2);
 }
