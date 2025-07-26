@@ -13,6 +13,12 @@
 - [Sum of multiples](./8-kyu/JavaScript/sum-of-multiples.js)
 
 - [Switch it up!](./8-kyu/JavaScript/switch-it-up.js)
+
+- [What is between?](./8-kyu/JavaScript/what-is-between.js)
+
+- [Sum Mixed Array](./8-kyu/JavaScript/sum-mixed-array.js)
+
+- [Arguments to Binary addition](./8-kyu/JavaScript/arguments-to-binary-addition.js);
   
 ### TypeScript
 - [Check same case](./8-kyu/TypeScript/check-same-case.ts)
