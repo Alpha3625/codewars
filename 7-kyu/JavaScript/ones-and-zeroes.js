@@ -2,7 +2,6 @@
 // Level: 7 kyu
 // Task: Ones and Zeroes
 
-
 function binaryDigits(str) {
     if (
         typeof str !== "string" ||

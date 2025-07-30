@@ -18,7 +18,13 @@
 
 - [Sum Mixed Array](./8-kyu/JavaScript/sum-mixed-array.js)
 
-- [Arguments to Binary addition](./8-kyu/JavaScript/arguments-to-binary-addition.js);
+- [Arguments to Binary addition](./8-kyu/JavaScript/arguments-to-binary-addition.js)
+
+- [Remove First and Last Character](./8-kyu/JavaScript/remove-first-and-last-character.js)
+
+- [Remove First and Last Character Part Two](./8-kyu/JavaScript/remove-first-and-last-character-part-two.js)
+
+- [Merge two sorted arrays into one](./8-kyu/JavaScript/merge-two-sorted-arrays-into-one.js)
   
 ### TypeScript
 - [Check same case](./8-kyu/TypeScript/check-same-case.ts)
@@ -30,3 +36,9 @@
 - [Ones and Zeroes](./7-kyu/JavaScript/ones-and-zeroes.js)
 
 - [Write shortest function to calculate Average number of Array](./7-kyu/JavaScript/write-shortest-function-to-calculate-average-number-of-array.js)
+
+- [Jenny the youngest detective](./7-kyu/JavaScript/jenny-the-youngest-detective.js)
+
+- [Remove Empty Items of Array](./7-kyu/JavaScript/remove-empty-items-of-array.js)
+
+- [Get the Middle Character](./7-kyu/JavaScript/get-the-middle-character.js)

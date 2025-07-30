@@ -24,8 +24,7 @@ function arr2bin(arr) {
 
     while (sum > 0) {
         binary += sum % 2;
-        sum /= 2;
-        sum = Math.floor(sum);
+        sum = Math.floor(sum / 2);
     }
 
     let reverseBinary = "";
