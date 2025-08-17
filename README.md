@@ -25,6 +25,8 @@
 - [Remove First and Last Character Part Two](./8-kyu/JavaScript/remove-first-and-last-character-part-two.js)
 
 - [Merge two sorted arrays into one](./8-kyu/JavaScript/merge-two-sorted-arrays-into-one.js)
+
+- [Array plus array](./8-kyu/JavaScript/array-plus-array.js)
   
 ### TypeScript
 - [Check same case](./8-kyu/TypeScript/check-same-case.ts)
@@ -42,3 +44,15 @@
 - [Remove Empty Items of Array](./7-kyu/JavaScript/remove-empty-items-of-array.js)
 
 - [Get the Middle Character](./7-kyu/JavaScript/get-the-middle-character.js)
+
+- [Empty that array!](./7-kyu/JavaScript/empty-that-array.js)
+
+- [Array Array Array](./7-kyu/JavaScript/array-array-array.js)
+
+- [Odd-Even String Sort](./7-kyu/JavaScript/odd-even-string-sort.js)
+
+- [Strings, strings, strings (Easy)](./7-kyu/JavaScript/strings-strings-strings(Easy).js)
+
+## 🟡 6 kyu
+### JavaScript
+- [array.diff](./6-kyu/JavaScript/Array-diff.js)
