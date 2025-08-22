@@ -27,6 +27,8 @@
 - [Merge two sorted arrays into one](./8-kyu/JavaScript/merge-two-sorted-arrays-into-one.js)
 
 - [Array plus array](./8-kyu/JavaScript/array-plus-array.js)
+
+- [Grasshopper - Summation](./8-kyu/JavaScript/grasshopper-summation.js)
   
 ### TypeScript
 - [Check same case](./8-kyu/TypeScript/check-same-case.ts)
